@@ -33,9 +33,9 @@ Furthermore they don't support a full set of features e.g. full atomic rollbacks
 
 ## Installation
 ```
-npm install -g knex-migrator
-npm install knex-migrator --save
-yarn add knex-migrator
+npm install -g knex-migrator@3.1.1
+npm install knex-migrator@3.1.1 --save
+yarn add knex-migrator@3.1.1
 ```
 
 ## MigratorConfig
